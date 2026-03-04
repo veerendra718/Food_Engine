@@ -1,0 +1,20 @@
+{
+  "name": "food_engine_backend",
+  "version": "1.0.0",
+  "description": "It's is a food order application with admin and user dashboards",
+  "homepage": "https://github.com/veerendra718/Food_Engine#readme",
+  "bugs": {
+    "url": "https://github.com/veerendra718/Food_Engine/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veerendra718/Food_Engine.git"
+  },
+  "license": "ISC",
+  "author": "\"Veerendra\"",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
